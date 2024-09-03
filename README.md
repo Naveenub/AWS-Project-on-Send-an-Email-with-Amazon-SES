@@ -1,0 +1,1 @@
+# AWS-Project-on-Send-an-Email-with-Amazon-SES
